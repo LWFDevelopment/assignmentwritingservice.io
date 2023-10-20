@@ -12,9 +12,9 @@ export default function Home() {
   return (
     <>
     <Banner/>
+    <Counter/>
     <Services/>
     <Usp/>
-    <Counter/>
     <Tabs/>
     <Reviews/>
     <Faqs/>

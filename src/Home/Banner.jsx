@@ -9,11 +9,11 @@ export default function Banner() {
                         <div className="col-lg-6">
                             <div className="intro-content" style={{marginLeft: "4rem",}}>
                                 <div className="section-heading shm-none">
-                                    <div className="section-subheading">Free template</div>
-                                    <h1>#1 The Fastest HTML5 Template</h1>
-                                    <p className="section-desc">The free template is the simplified version of the premium template, but you can use it for your own purposes. The premium template includes a lot of functionality.</p>
+                                    <div className="section-subheading">Lorem, ipsum dolor.</div>
+                                    <h1>Lorem ipsum dolor sit amet consectetur.</h1>
+                                    <p className="section-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet provident recusandae qui deserunt. Incidunt voluptatibus et nam eum minus neque recusandae quam cumque ipsam voluptatem.</p>
                                 </div>
-                                <div className="btn-group intro-btns">
+                                {/* <div className="btn-group intro-btns">
                                     <a href="https://www.templatemonster.com/website-templates/pathsoft-it-solutions-for-your-business-services-website-template-83414.html?utm_campaign=blog_site_KovalWeb&utm_source=KovalWeb&utm_medium=referral&aff=KovalWeb" className="btn btn-border btn-with-icon btn-small ripple">
                                         <span>HTML5</span>
                                         <svg className="btn-icon-right" viewBox="0 0 13 9" width="13" height="9"><use href="assets/img/sprite.svg#arrow-right"></use></svg>
@@ -22,7 +22,7 @@ export default function Banner() {
                                         <span>WordPress</span>
                                         <svg className="btn-icon-right" viewBox="0 0 13 9" width="13" height="9"><use  href="assets/img/sprite.svg#arrow-right"></use></svg>
                                     </a>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                         <div className="col-lg-6">

@@ -9,12 +9,13 @@ export default function Counter() {
                 <div className="counter-min">
                     <div className="counter-min-block">
                         <div className="counter-min-ico">
-                            <i className="material-icons material-icons-outlined md-36">history</i>
+                            <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb spincrement" data-from="0" data-to="10">0</div>
+                        <div className="counter-min-numb spincrement" >4.5</div>
                     </div>
                     <div className="counter-min-info">
-                        <h4 className="counter-min-heading">Years Of Experience</h4>
+                        <img src="./assets/img/sitejabber-logo-vector.svg" alt="" />
+                        {/* <h4 className="counter-min-heading">Years Of Experience</h4> */}
                     </div>
                 </div>
             </div>
@@ -22,12 +23,13 @@ export default function Counter() {
                 <div className="counter-min">
                     <div className="counter-min-block">
                         <div className="counter-min-ico">
-                            <i className="material-icons material-icons-outlined md-36">chat</i>
+                            <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb spincrement" data-from="0" data-to="40">0</div>
+                        <div className="counter-min-numb spincrement" data-from="0" data-to="40">4</div>
                     </div>
                     <div className="counter-min-info">
-                        <h4 className="counter-min-heading">Consultans</h4>
+                        <img src="./assets/img/trustpilot-1.svg" width="150" alt="" />
+                        {/* <h4 className="counter-min-heading">Consultans</h4> */}
                     </div>
                 </div>
             </div>
@@ -35,12 +37,13 @@ export default function Counter() {
                 <div className="counter-min">
                     <div className="counter-min-block">
                         <div className="counter-min-ico">
-                            <i className="material-icons material-icons-outlined md-36">assignment_ind</i>
+                            <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb spincrement" data-from="0" data-to="160">0</div>
+                        <div className="counter-min-numb spincrement" data-from="0" data-to="160">4.2</div>
                     </div>
                     <div className="counter-min-info">
-                        <h4 className="counter-min-heading">Employers</h4>
+                        <img src="./assets/img/goodfirms.svg" alt="" />
+                        {/* <h4 className="counter-min-heading">Employers</h4> */}
                     </div>
                 </div>
             </div>
@@ -48,12 +51,13 @@ export default function Counter() {
                 <div className="counter-min">
                     <div className="counter-min-block">
                         <div className="counter-min-ico">
-                            <i className="material-icons material-icons-outlined md-36">phonelink_setup</i>
+                            <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb"><span className="spincrement" data-from="0" data-to="2">0</span>K</div>
+                        <div className="counter-min-numb"><span className="spincrement" data-from="0" data-to="2">4.7</span></div>
                     </div>
                     <div className="counter-min-info">
-                        <h4 className="counter-min-heading">Apps Developed</h4>
+                        <img src="./assets/img/google.webp" width={130} alt="" />
+                        {/* <h4 className="counter-min-heading">Apps Developed</h4> */}
                     </div>
                 </div>
             </div>

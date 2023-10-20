@@ -8,27 +8,31 @@ export default function Navbar() {
     <nav className="mmm">
         <div className="mmm-content">
             <ul className="mmm-list">
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="about-us.html">About us</a>
-                </li>
-                <li>
-                    <a href="services.html">Services</a>
-                </li>
-                <li>
-                    <a href="typography.html">Typography</a>
-                </li>
-                <li>
-                    <a href="tabs-and-accordions.html">Tabs & Accordions</a>
-                </li>
-                <li>
-                    <a href="news.html">News</a>
-                </li>
-                <li>
-                    <a href="contacts.html">Contacts</a>
-                </li>
+            <li>
+                <a href="#services">
+                    <span>Services</span>
+                </a>
+            </li>
+            <li>
+                <a href="#usp">
+                    <span>Our Usp</span>
+                </a>
+            </li>
+            <li>
+                <a href="#faqs">
+                    <span>FAQs</span>
+                </a>
+            </li>
+            <li>
+                <a href="#reviews">
+                    <span>Reviews</span>
+                </a>
+            </li>
+            <li>
+                <a href="#contact">
+                    <span>Contacts</span>
+                </a>
+            </li>
             </ul>
         </div>
     </nav>
@@ -56,17 +60,17 @@ export default function Navbar() {
                 </a>
             </li>
             <li>
-                <a href="#usp" data-title="Typography">
+                <a href="#usp" data-title="Our USP">
                     <span>Our Usp</span>
                 </a>
             </li>
             <li>
-                <a href="#faqs" data-title="Tabs & Accordions">
+                <a href="#faqs" data-title="FAQs">
                     <span>FAQs</span>
                 </a>
             </li>
             <li>
-                <a href="#reviews" data-title="News">
+                <a href="#reviews" data-title="Reviews">
                     <span>Reviews</span>
                 </a>
             </li>
