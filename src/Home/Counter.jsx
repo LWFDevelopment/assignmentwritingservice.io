@@ -11,7 +11,7 @@ export default function Counter() {
                         <div className="counter-min-ico">
                             <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb spincrement" >4.5</div>
+                        <div className="counter-min-numb " >4.5</div>
                     </div>
                     <div className="counter-min-info">
                         <img src="./assets/img/sitejabber-logo-vector.svg" alt="" />
@@ -25,7 +25,7 @@ export default function Counter() {
                         <div className="counter-min-ico">
                             <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb spincrement" data-from="0" data-to="40">4</div>
+                        <div className="counter-min-numb " data-from="0" data-to="40">4.8</div>
                     </div>
                     <div className="counter-min-info">
                         <img src="./assets/img/trustpilot-1.svg" width="150" alt="" />
@@ -39,7 +39,7 @@ export default function Counter() {
                         <div className="counter-min-ico">
                             <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb spincrement" data-from="0" data-to="160">4.2</div>
+                        <div className="counter-min-numb " data-from="0" data-to="160">4.2</div>
                     </div>
                     <div className="counter-min-info">
                         <img src="./assets/img/goodfirms.svg" alt="" />
@@ -53,7 +53,7 @@ export default function Counter() {
                         <div className="counter-min-ico">
                             <i className="material-icons material-icons-outlined md-36">star</i>
                         </div>
-                        <div className="counter-min-numb"><span className="spincrement" data-from="0" data-to="2">4.7</span></div>
+                        <div className="counter-min-numb"><span className="" data-from="0" data-to="2">4.7</span></div>
                     </div>
                     <div className="counter-min-info">
                         <img src="./assets/img/google.webp" width={130} alt="" />
