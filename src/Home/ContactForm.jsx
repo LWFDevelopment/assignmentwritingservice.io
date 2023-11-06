@@ -8,8 +8,8 @@ export default function ContactForm() {
                     <div class="row content-items">
                         <div class="col-12">
                             <div class="section-heading">
-                                <div class="section-subheading">We are always in touch</div>
-                                <h1>Contacts</h1>
+                                <div class="section-subheading">We Are Available Whenever You Need Us</div>
+                                <h1>Contact Us At</h1>
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-5 content-item">

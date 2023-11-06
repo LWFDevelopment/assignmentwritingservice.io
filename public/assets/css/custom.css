@@ -81,6 +81,7 @@ span.whatsAppText { float: left; width: 84%; text-align: left; text-align-last: 
     border: 1px solid rgba(47,47,47,0.1);
     padding: 20px 40px;
     transition: all 0.2s ease-in-out;
+    height: 440px;
 }
 .steps-box:hover{
     border: unset;    

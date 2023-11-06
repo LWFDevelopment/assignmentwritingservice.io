@@ -9,9 +9,9 @@ export default function Banner() {
                         <div className="col-lg-6">
                             <div className="intro-content" style={{marginLeft: "4rem",}}>
                                 <div className="section-heading shm-none">
-                                    <div className="section-subheading">Lorem, ipsum dolor.</div>
-                                    <h1>Lorem ipsum dolor sit amet consectetur.</h1>
-                                    <p className="section-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet provident recusandae qui deserunt. Incidunt voluptatibus et nam eum minus neque recusandae quam cumque ipsam voluptatem.</p>
+                                    <div className="section-subheading">Best Assignment Writing Service UK</div>
+                                    <h1>Assignment Writing Help for University Students</h1>
+                                    <p className="section-desc">For university students in UK seeking best assignment writing service, look no further. We ensure stress-free learning and help you secure excellent results. Our committed assignment help have a single mission i.e. to provide complete support for assignment writing during your entire scholarly voyage. Unlock your potential and enhance your accomplishments when you take our Online assignment writing help service.</p>
                                 </div>
                                 {/* <div className="btn-group intro-btns">
                                     <a href="https://www.templatemonster.com/website-templates/pathsoft-it-solutions-for-your-business-services-website-template-83414.html?utm_campaign=blog_site_KovalWeb&utm_source=KovalWeb&utm_medium=referral&aff=KovalWeb" className="btn btn-border btn-with-icon btn-small ripple">
