@@ -7,6 +7,8 @@ Description: The Template is created for web template
 Tags: html5, css3, sass, gulp, bootstrap grid
 Version: 2.0.0
 */
+/* #ee2c37 */
+/* #b51022 */
 :root {
     --font-family: "Source Sans Pro";
     --font-size: 16px;
@@ -17,9 +19,9 @@ Version: 2.0.0
     --heading-font-size: 2.5rem;
     --heading-line-height: 1.3;
     --heading-font-weight: 700;
-    --accent-color: #186ADC;
-    --el-gradient-start: #1859B4;
-    --el-gradient-end: #0467F1;
+    --accent-color: #ee2c37;
+    --el-gradient-start: #ee2c37;
+    --el-gradient-end: #b51022;
     --background-color: #ffffff;
     --background-secondary-color: #F0F4F8;
     --text-primary: #303036;
@@ -2285,7 +2287,7 @@ textarea {
 }
 
 .reviews-item-position {
-    color: var(--text-secondary);
+    color: rgb(255, 208, 0);
     font-size: 1rem;
 }
 
@@ -2755,8 +2757,7 @@ textarea {
 }
 
 .logo {
-    --logo-max-width: 133px;
-    --logo-max-height: 36px;
+    --logo-max-width: 180px;
     display: inline-flex;
     text-decoration: none;
 }

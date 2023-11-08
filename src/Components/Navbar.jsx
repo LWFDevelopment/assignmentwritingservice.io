@@ -43,9 +43,9 @@ export default function Navbar() {
             <div className="container">
                 <div className="row flex-nowrap align-items-center justify-content-between">
                     <div className="col-auto header-fixed-col logo-wrapper">
-                        <a href="index.html" className="logo" title="PathSoft">
-                            Logo
-                            {/* <img src="assets/img/logo.svg" width="115" height="36" alt="PathSoft"/> */}
+                        <a href="index.html" className="logo" title="Assignment Writing Service">
+                            {/* Logo */}
+                            <img src="assets/img/logo.png" alt="Assignment Writing Service"/>
                         </a>
                     </div>
                     <div className="col-auto col-xl col-static header-fixed-col d-none d-xl-block">

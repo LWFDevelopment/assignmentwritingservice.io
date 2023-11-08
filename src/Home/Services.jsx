@@ -7,7 +7,6 @@ export default function Services() {
                 <div className="row">
                     <header className="col-12">
                         <div className="section-heading heading-center">
-                            <div className="section-subheading">Areas what we serv</div>
                             <h2>Comprehensive Assignment Writing Services: Excelling in Academia with Our Expertise</h2>
                         </div>
                     </header>

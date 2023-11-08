@@ -39,7 +39,7 @@ export default function Reviews() {
                                         </div>
                                         <div className="reviews-item-info">
                                             <h4 className="reviews-item-name item-heading">Catherine Williams</h4>
-                                            <div className="reviews-item-position">Regular client</div>
+                                            <div className="reviews-item-position "><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i></div>
                                         </div>
                                     </div>
                                     <div className="reviews-item-text">
@@ -56,7 +56,7 @@ export default function Reviews() {
                                         </div>
                                         <div className="reviews-item-info">
                                             <h4 className="reviews-item-name item-heading">Rupert Wood</h4>
-                                            <div className="reviews-item-position">Regular client</div>
+                                            <div className="reviews-item-position "><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i></div>
                                         </div>
                                     </div>
                                     <div className="reviews-item-text">
@@ -74,7 +74,7 @@ export default function Reviews() {
                                         </div>
                                         <div className="reviews-item-info">
                                             <h4 className="reviews-item-name item-heading">Samantha Brown</h4>
-                                            <div className="reviews-item-position">Regular client</div>
+                                            <div className="reviews-item-position "><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i><i className="material-icons material-icons-outlined md-18">star</i></div>
                                         </div>
                                     </div>
                                     <div className="reviews-item-text">

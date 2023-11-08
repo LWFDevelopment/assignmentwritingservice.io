@@ -86,7 +86,7 @@ span.whatsAppText { float: left; width: 84%; text-align: left; text-align-last: 
 .steps-box:hover{
     border: unset;    
     box-shadow: 0px 0px 20px 0px rgba(47,47,47,0.2);
-    background: linear-gradient(180deg, #2696ff,  #046bf1);
+    background: linear-gradient(180deg, #ee2c37,  #b51022);
     color: white;
 }
 .step-number{
@@ -107,4 +107,12 @@ span.whatsAppText { float: left; width: 84%; text-align: left; text-align-last: 
 .process-container{
     padding-top: 40px;
     padding-bottom: 40px;
+}
+
+.text-white{
+    color: #f2f2f2!important;
+}
+
+.btn-top{
+    display: none;
 }
